@@ -1,0 +1,24 @@
+
+.active {
+	background-color: red !important;
+}
+
+nav {
+	margin-bottom: 1em;
+}
+li {
+	padding: 0 0.5em;
+	color: black !important;
+}
+li:hover {
+	
+	color:white !important;
+	background-color:red !important;
+	border-radius: 0.3em;
+	
+}
+
+
+
+
+
